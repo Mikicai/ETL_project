@@ -1,12 +1,12 @@
 # ETL_project
 ETL project
 Group name: Team Agile
-Team member: Faisal Malik, Praveena MS , Miki Minhui Cai
+Team members: Faisal Malik, Praveena MS , Miki Minhui Cai
 
-Our client is  a WA university sales and marketing department manager.
+Our client is  a WA University Sales and Marketing Department manager.
 
 Project proposal:
-WA university is planning their courses to run for next year. They have come to us and want to work with us to find out what courses will be popular in the next few years. 
+WA university is planning their courses to run for next year. They have approached us and want to work with us to find out what courses will be popular in the next few years. 
 
 To predict the in-demand courses/qualifications, we will look at the data in the growing industries, income levels of different qualifications and occupations. Our main source of data comes from ABS. 
 
